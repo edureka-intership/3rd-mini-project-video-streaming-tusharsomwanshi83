@@ -1,0 +1,22 @@
+{
+  "name": "3rd-mini-project-video-streaming-tusharsomwanshi83",
+  "version": "1.0.0",
+  "description": "Mini Project 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/3rd-mini-project-video-streaming-tusharsomwanshi83.git"
+  },
+  "author": "tusharsomwanshi83",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/3rd-mini-project-video-streaming-tusharsomwanshi83/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/3rd-mini-project-video-streaming-tusharsomwanshi83#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

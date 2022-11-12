@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "1",
+        "title": "Aspirants",
+        "title_img": "https://m.media-amazon.com/images/M/MV5BNWRkMjA0NjItMmViYS00MDQyLTgyMWYtOWFmOTA4NmU5MjRjXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+        "synopsis": "Aspirants had already won the hearts with its first 4 episodes. With 5th and the final episode premiered few hours back, Aspirants will certainly go down in the history as one of the best Indian web-series made.",
+        "banner": "https://m.media-amazon.com/images/M/MV5BNWRkMjA0NjItMmViYS00MDQyLTgyMWYtOWFmOTA4NmU5MjRjXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+        "rating": "9.2",
+        "path": "video.mp4",
+        "type": "show"
+    },
+    {
+        "_id": "2",
+        "title": "Flames",
+        "title_img": "https://m.media-amazon.com/images/M/MV5BMGM5OTlmNjYtYmFlZi00MDY3LTk5YTctNTBlNjliZjEzY2E2XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_FMjpg_UX1000_.jpg",
+        "synopsis": "One of it's kind. This is more of those TV series which you will hold close to heart. You can never get enough of it , no matter how many times you have watched this. This comes with clean humor and soulful acting.",
+        "banner": "https://m.media-amazon.com/images/M/MV5BMGM5OTlmNjYtYmFlZi00MDY3LTk5YTctNTBlNjliZjEzY2E2XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_FMjpg_UX1000_.jpg",
+        "rating": "8.9",
+        "path": "video.mp4",
+        "type": "show"
+    },
+    {
+        "_id": "3",
+        "title": "Kota Factory",
+        "title_img": "https://m.media-amazon.com/images/M/MV5BZGZiMjU2ZjUtZjQzNi00NzlkLWFhNTQtOGVjNTJmN2ExY2E2XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+        "synopsis": "Kota Factory is an Indian Hindi-language web series created by Saurabh Khanna, directed by Raghav Subbu & produced by Arunabh Kumar for The Viral Fever. The story is set in Kota, Rajasthan, an educational hub famous for its coaching centres.",
+        "banner": "https://m.media-amazon.com/images/M/MV5BZGZiMjU2ZjUtZjQzNi00NzlkLWFhNTQtOGVjNTJmN2ExY2E2XkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg",
+        "rating": "9.1",
+        "path": "video.mp4",
+        "type": "show"
+    },
+    {
+        "_id": "4",
+        "title": "Mirzapur",
+        "title_img": "https://m.media-amazon.com/images/M/MV5BN2NlNGYwYTUtMTczMi00NGVjLTgwMzUtNjBkZjIyNDc2NjcxXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_FMjpg_UX1000_.jpg",
+        "synopsis": "A shocking incident at a wedding procession ignites a series of events entangling the lives of two families in the lawless city of Mirzapur. The iron-fisted Akhandanand Tripathi is a millionaire carpet exporter and the mafia don of Mirzapur.",
+        "banner": "https://m.media-amazon.com/images/M/MV5BN2NlNGYwYTUtMTczMi00NGVjLTgwMzUtNjBkZjIyNDc2NjcxXkEyXkFqcGdeQXVyODQ5NDUwMDk@._V1_FMjpg_UX1000_.jpg",
+        "rating": "8.5",
+        "path": "video.mp4",
+        "type": "show"
+    },
+    {
+        "_id": "5",
+        "title": "Panchayat",
+        "title_img": "https://upload.wikimedia.org/wikipedia/en/1/1a/Panchayat_logo.jpg",
+        "synopsis": "It chronicles the life of an engineering graduate who joins as a Panchayat secretary in a remote fictional village Phulera of Uttar Pradesh due to lack of better job options. The series was shot in a real panchayat office located in village Mahodiya of district Sehore Madhya Pradesh.",
+        "banner": "https://upload.wikimedia.org/wikipedia/en/1/1a/Panchayat_logo.jpg",
+        "rating": "8.9",
+        "path": "video.mp4",
+        "type": "show"
+    },
+    {
+        "_id": "6",
+        "title": "Bramhastra",
+        "title_img": "https://i.ytimg.com/vi/AgS_6UbQ8JM/maxresdefault.jpg",
+        "synopsis": "Brahmastra is good to watch for 3d only if you are in for visual treat attempted by Bollywood but that's all I have to say. In terms of storyline it lacks what Karthikeya 2 was able to achieve with its storyline and narration.",
+        "banner": "https://i.ytimg.com/vi/AgS_6UbQ8JM/maxresdefault.jpg",
+        "rating": "5.6",
+        "path": "video.mp4",
+        "type": "movie"
+    },
+    {
+        "_id": "7",
+        "title": "Sita Raman",
+        "title_img": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg",
+        "synopsis": "An orphaned solider's life changes after he recives a letter from a girl named Sita. He meets her and love nlossoms between them. When he returns to her camp in Kashmir, he sends a letter to Sita that will not not reach her.",
+        "banner": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_FMjpg_UX1000_.jpg",
+        "rating": "8.5",
+        "path": "video.mp4",
+        "type": "movie"
+    },
+    {
+        "_id": "8",
+        "title": "RRR",
+        "title_img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg",
+        "synopsis": "RRR (Ridiculous Riveting Rampage) - a great time! This movie is one of the greatest movies I've seen in my life not knowing that Indian movies would actually execute so well especially this one. The action is the best part of this movie, no scene in this movie cannot go untouched without action.",
+        "banner": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/RRR_Poster.jpg/220px-RRR_Poster.jpg",
+        "rating": "8.0",
+        "path": "video.mp4",
+        "type": "movie"
+    },
+    {
+        "_id": "9",
+        "title": "Pushpa : The Rise",
+        "title_img": "https://cdn.gulte.com/wp-content/uploads/2021/12/Review1.jpg",
+        "synopsis": "This movie is purely for the mass audience. The duration of this is so long that it made me feel bored. Story and acting is good and the locations are beautiful. It's a decent movie but not worthy of 9&10 star rating.",
+        "banner": "https://cdn.gulte.com/wp-content/uploads/2021/12/Review1.jpg",
+        "rating": "7.6",
+        "path": "video.mp4",
+        "type": "movie"
+    },
+    {
+        "_id": "10",
+        "title": "K.G.F.",
+        "title_img": "https://m.timesofindia.com/photo/90518208.jpeg",
+        "synopsis": "KGF is good to watch for 3d only if you are in for visual treat attempted by Bollywood but that's all I have to say. In terms of storyline it lacks what Karthikeya 2 was able to achieve with its storyline and narration.",
+        "banner": "https://m.timesofindia.com/photo/90518208.jpeg",
+        "rating": "7.8",
+        "path": "video.mp4",
+        "type": "movie"
+    }
+]
